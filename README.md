@@ -3,7 +3,7 @@
 ## Description
 
 This a game where if the user enters a number it displays a list of numbers from  1 to the specified  number with exceptions listed in the specifications below.
-[Play the game](https://aishasharif.github.io/Anita-s-kitchen/)
+[Play the game](https://aishasharif.github.io/ping-pong/)
 
 ## Specifications
 

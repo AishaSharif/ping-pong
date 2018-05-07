@@ -23,8 +23,8 @@ $(document).ready(function(){
     var input = parseInt($('input#value').val());
   	var output = pingPong(input);
     
-    output.forEach(function(item) {
-    $("#output").append('<li>' + item + '</li>');
+    output.forEach(function(value) {
+    $("#output").append('<li>' + value + '</li>');
     });
     /* $('#value').val('') */
   });

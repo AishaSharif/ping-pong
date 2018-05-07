@@ -1,0 +1,51 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #fff;
+  color: #393E46;
+  box-sizing: border-box;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+.title{
+  font-weight: 700;
+  font-size: 4rem;
+  text-align: center;
+  background-color: #EEEEEE;
+  margin: 0;
+  height: 81px;
+  padding-top: 14px;
+  color: #00ADB5;
+}
+.section-left{
+  border-right: 1px solid #ddd;
+}
+.section-left-button{
+  border-color: #00ADB5;
+}
+.section-left-button:hover,
+.section-left-button:active{
+  background-color: #00ADB5;
+  color: #eee;
+  border: none;
+}
+.section-right{
+  text-align: center;
+  padding-top: 4%;
+}
+ul#output{
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+.ping{
+  color: #429FFD;
+}
+.pong{
+  color: #0960BD
+}
+.ping-pong{
+  color: #011F3F
+}
